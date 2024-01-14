@@ -19,3 +19,5 @@ Neural network with TensorFlow to perform multi-class classification. Decision t
 - Tensorflow
 - Tree Ensembles
 - Advice for Model Development
+
+## Course 3: Unsupervised Learning, Recommenders, Reinforcement Learning
