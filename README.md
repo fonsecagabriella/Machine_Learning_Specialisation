@@ -21,3 +21,7 @@ Neural network with TensorFlow to perform multi-class classification. Decision t
 - Advice for Model Development
 
 ## Course 3: Unsupervised Learning, Recommenders, Reinforcement Learning
+
+- Unsupervised learning techniques, including clustering and anomaly detection
+- Recommender systems with a collaborative filtering approach and a content-based deep learning method
+- Deep reinforcement learning model
